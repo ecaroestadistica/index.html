@@ -12,7 +12,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1> HOLA MUNDO </h1> 
+        		<h1> RESULTADOS SISTEMA 1 </h1> 
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
